@@ -1,5 +1,3 @@
-kelompok3
-
 import math
 
 # Format: [Sosmed, Game, Belajar]
